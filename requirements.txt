@@ -1,0 +1,6 @@
+tensorflow==2.4.1
+keras==2.4.3
+numpy==1.19.3
+ntlk==3.5
+pickle==4.0
+pillow==7.0.0
