@@ -5,5 +5,5 @@ Tensorflow 2.4
 Keras 2.4
 Numpy 1.19.3
 Ntlk 3.5
-Pickle==4.0
-Pillow==7.0.0
+Pickle 4.0
+Pillow 7.0.0
