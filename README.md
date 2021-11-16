@@ -1,5 +1,5 @@
 # image-captioning-gui
-Image Captioning Application is an application to automatically generate captions on images using a CNN and LSTM.
+Image Captioning Application is an application to automatically generate captions on images using CNN and LSTM.
 ## Pre-Requisites
 - Tensorflow 2.4
 - Keras 2.4
