@@ -8,4 +8,6 @@ Image Captioning Application is an application to automatically generate caption
 - Pickle 4.0
 - Pillow 7.0.0
 ## Examples
-![alt text](https://drive.google.com/file/d/1OctF6YmiC5n3Ibba4M6YbJUpP6aZpSUg/view?usp=sharing)
+![alt text](https://github.com/dzikrisyafi/image-captioning-gui/blob/main/examples/img-cap1.png)
+![alt text](https://github.com/dzikrisyafi/image-captioning-gui/blob/main/examples/img-cap2.png)
+![alt text](https://github.com/dzikrisyafi/image-captioning-gui/blob/main/examples/img-cap3.png)
